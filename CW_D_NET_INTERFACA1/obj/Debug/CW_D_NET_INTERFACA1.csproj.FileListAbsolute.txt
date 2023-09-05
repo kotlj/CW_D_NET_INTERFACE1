@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\CW_D_NET_INTERFACA1\CW_D_NET_INTERFACA1\bin\Debug\CW_D_NET_INTERFACA1.exe.config
+C:\Users\Admin\source\repos\CW_D_NET_INTERFACA1\CW_D_NET_INTERFACA1\bin\Debug\CW_D_NET_INTERFACA1.exe
+C:\Users\Admin\source\repos\CW_D_NET_INTERFACA1\CW_D_NET_INTERFACA1\bin\Debug\CW_D_NET_INTERFACA1.pdb
+C:\Users\Admin\source\repos\CW_D_NET_INTERFACA1\CW_D_NET_INTERFACA1\obj\Debug\CW_D_NET_INTERFACA1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CW_D_NET_INTERFACA1\CW_D_NET_INTERFACA1\obj\Debug\CW_D_NET_INTERFACA1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\CW_D_NET_INTERFACA1\CW_D_NET_INTERFACA1\obj\Debug\CW_D_NET_INTERFACA1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CW_D_NET_INTERFACA1\CW_D_NET_INTERFACA1\obj\Debug\CW_D_NET_INTERFACA1.exe
+C:\Users\Admin\source\repos\CW_D_NET_INTERFACA1\CW_D_NET_INTERFACA1\obj\Debug\CW_D_NET_INTERFACA1.pdb
